@@ -1,3 +1,4 @@
+
 from PIL import Image, ImageDraw, ImageFont
 from collections import defaultdict
 from math import floor, ceil
